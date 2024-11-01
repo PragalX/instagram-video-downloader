@@ -4,7 +4,7 @@ import React from "react";
 
 import Link from "next/link";
 import Image from "next/image";
-
+import { Analytics } from "@vercel/analytics/react"
 import { cn } from "@/lib/utils";
 import { ThemeToggle } from "./theme-toggle";
 import { MobileNav } from "./mobile-nav";
