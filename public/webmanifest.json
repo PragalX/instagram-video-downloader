@@ -1,6 +1,6 @@
 {
-  "name": "Instagram Video Downloader",
-  "short_name": "InstaDownloader",
+  "name": "PragyanInstaDownloader",
+  "short_name": "PragyanInstaDownloader",
   "description": "Download Instagram videos easily with our free online video downloader.",
   "start_url": "/",
   "display": "standalone",
@@ -30,7 +30,7 @@
     "download IG videos",
     "Instagram video saver"
   ],
-  "author": "riad-azz",
+  "author": "pragyanpandey",
   "copyright": "© 2023 riad-azz. All rights reserved.",
   "rating": "General",
   "apple-mobile-web-app-title": "InstaDownloader",
